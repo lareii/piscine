@@ -7,4 +7,4 @@ I'm always open to contributions and improvements. If you have any suggestions, 
 ## Contact
 Feel free to contact me if you need help with the exercises or if you have any questions.
 
-- [Discord](https://discord.com/users/748539900793716887)
+- [Discord](https://discord.gg/6FwNtZdbWH)
