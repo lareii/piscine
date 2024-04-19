@@ -7,4 +7,5 @@ I'm always open to contributions and improvements. If you have any suggestions, 
 ## Contact
 Feel free to contact me if you need help with the exercises or if you have any questions.
 
+- [Email](mailto:emirhan@babaoglu.dev)
 - [Discord](https://discord.gg/taMRRAHb6y)
